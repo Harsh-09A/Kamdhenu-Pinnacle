@@ -33,8 +33,8 @@ const handleFormSubmit = async (
     privacy_check: document.getElementById(privacyField).value,
     ip_address: await getIpAddress(),
     website_url: window.location.href,
-    to_email: "harsh.autowebbed@gmail.com",
-    company_name: "{Project Name}",
+    to_email: "realestatearisto@gmail.com",
+    company_name: "Kamdhenu Pinnacle",
   };
 
   // Send Form
