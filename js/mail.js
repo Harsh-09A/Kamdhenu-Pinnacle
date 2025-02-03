@@ -34,6 +34,7 @@ const handleFormSubmit = async (
     ip_address: await getIpAddress(),
     website_url: window.location.href,
     to_email: "realestatearisto@gmail.com",
+    cc_email: "cbWR9lQS-197a6H60@v1-incoming-leads.privyr.com",
     company_name: "Kamdhenu Pinnacle",
   };
 
